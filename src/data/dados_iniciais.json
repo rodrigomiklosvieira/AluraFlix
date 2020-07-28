@@ -3,7 +3,7 @@
     {
       "titulo": "Front End",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "cor": "#647512",
       "link_extra": {
         "text": "Formação de Front End na Alura",
         "url": "https://www.alura.com.br/cursos-online-front-end"
@@ -45,7 +45,7 @@
     },
     {
       "titulo": "Back End",
-      "cor": "#00C86F",
+      "cor": "#00csdr",
       "link_extra": {
         "text": "Cursos de Back End na Alura",
         "url": "https://www.alura.com.br/cursos-online-programacao"
@@ -75,7 +75,7 @@
     },
     {
       "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "cor": "#41213b",
       "link_extra": {
         "text": "Cursos de Data Science na Alura",
         "url": "https://www.alura.com.br/formacao-data-science"
@@ -101,7 +101,7 @@
     },
     {
       "titulo": "Filmes",
-      "cor": "orange",
+      "cor": "#832342",
       "videos": [
         {
           "titulo": "Interestellar",
@@ -123,37 +123,37 @@
     },
     {
       "titulo": "Games",
-      "cor": "red",
+      "cor": "#ea80fc",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Canal do Zaroio - CS GO",
+        "url": "https://www.youtube.com/channel/UC_TaEiZ7IIPaAyrUNcOk2Pg?view_as=subscriber"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Vitória Zaroio e Shooter - Danger Zone - Counter strike GO",
+          "url": "https://www.youtube.com/watch?v=EXkkA3Wbj2k"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Jogando danger zone no CS GO de scoult",
+          "url": "https://www.youtube.com/watch?v=A9vRE0OZYoU&t=17s"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Vitória Zaroio e Vitorssobral na Danger Zone Counter strike GO",
+          "url": "https://www.youtube.com/watch?v=86x4a3AN010"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Cheater na Danger Zone - Counter strike GO - Partida completa.",
+          "url": "https://www.youtube.com/watch?v=cNwNoUpBzH0"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Cheate na Danger Zone - Counter strike GO",
+          "url": "https://www.youtube.com/watch?v=Tvp3_PP9eGc"
         }
       ]
     },
     {
       "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "cor": "#ff9900",
       "link_extra": {
         "text": "Curso sobre aprendizado na Alura",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
