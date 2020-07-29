@@ -1,0 +1,26 @@
+h1 {
+top: 130px;
+position: absolute;
+left: 0;
+right: 0;
+margin-left: auto;
+margin-right: auto;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 70px;
+color: #F5F5F5;
+}
+
+#categoria{
+position: absolute;
+left: 5%;
+right: 0%;
+top: 42.53%;
+width: 1350px;
+height: 50px;
+bottom: 0%;
+background: #53585D;
+border-radius: 4px;
+}
