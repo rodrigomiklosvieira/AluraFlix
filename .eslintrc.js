@@ -4,7 +4,7 @@ módulo . exportações  =  {
       es6 : verdadeiro ,
     } ,
     estende : [
-      'plugin: reagir / recomendado' ,
+      'plugin: jsc-a11y / recomendado' ,
       'airbnb' ,
     ] ,
     globais : {
@@ -20,6 +20,7 @@ módulo . exportações  =  {
     } ,
     plugins : [
       'react' ,
+      'jsx-a11y'
     ] ,
     regras : {
       "react / jsx-filename-extension" : [ 1 ,  {  "extensions" : [ ".js" ,  ".jsx" ]  } ]
