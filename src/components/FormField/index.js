@@ -55,11 +55,9 @@ const Input = styled.input`
   &:focus {
     border-bottom-color: var(--primary);
   }
-
   &:focus:not([type='color']) + ${Label.Text} {
     transform: scale(.6) translateY(-10px);
   }
-
   ${({ value }) => {
     const hasValue = value.length > 0;
     return hasValue && css`
@@ -67,7 +65,8 @@ const Input = styled.input`
           transform: scale(.6) translateY(-10px);
         }
       `;
-  }}
+  }
+}
 `;
 
 function FormField({
