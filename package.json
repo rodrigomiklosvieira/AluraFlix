@@ -39,6 +39,7 @@
     ]
   },
   "devDependencies": {
-    "concurrently": "^5.2.0"
+    "concurrently": "^5.2.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1"
   }
 }
